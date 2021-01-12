@@ -164,3 +164,8 @@ body {
      
 }
 
+@media screen and (min-width: 458px){
+    .search {
+     font-size: 10px;
+   }
+}
